@@ -1,5 +1,4 @@
 # ✨ Svadha Agarwal ✨
-
 Hi there! I'm **Svadha**, a passionate and evolving tech enthusiast with a focus on:
 - **Cloud Computing**: AWS, Kubernetes, Docker, and cloud-native solutions
 - **Software Development**: Python, Java, C, SQL
