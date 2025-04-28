@@ -1,6 +1,11 @@
 # ✨ Svadha Agarwal ✨
 
-Hi there! I'm Svadha — a passionate tech explorer focusing on **Cloud Computing**, **DevOps**, **Machine Learning**, and **Software Engineering**.
+Hi there! I'm **Svadha**, a passionate and evolving tech enthusiast with a focus on:
+- **Cloud Computing**: AWS, Kubernetes, Docker, and cloud-native solutions
+- **Software Development**: Python, Java, C, SQL
+- **Machine Learning**: Building intelligent models to solve real-world problems
+- **DevOps**: CI/CD, Automation, Infrastructure as Code, and Containerization
+- **Web Development**: API Design with FastAPI and front-end applications using Streamlit
 
 ---
 
@@ -85,4 +90,4 @@ Hi there! I'm Svadha — a passionate tech explorer focusing on **Cloud Computin
 
 ---
 
-# 🚀 Let's innovate and build awesome things together!
+ 🚀 Let's innovate and build awesome things together!
