@@ -5,7 +5,7 @@ Hi there! I'm **Svadha**, a passionate and evolving tech enthusiast with a focus
 - **Machine Learning**: Building intelligent models to solve real-world problems
 - **DevOps**: CI/CD, Automation, Infrastructure as Code, and Containerization
 - **Web Development**: API Design with FastAPI and front-end applications using Streamlit
-
+You can view the live version of my portfolio [here](https://svadha29.github.io/Svadha/).
 ---
 
 ## 🧩 About Me
